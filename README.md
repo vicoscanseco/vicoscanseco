@@ -1,5 +1,8 @@
 ## Hola, soy Victor Canseco
 
+<a href="#suhailkakar-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=vicoscanseco&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
