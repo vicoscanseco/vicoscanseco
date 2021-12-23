@@ -7,7 +7,8 @@
 - 🔭 I’m currently working on Sysne
 - 🌱 I’m currently learning [Azure SQL]
 - 💬 Ask me about C#, Blazor, SQL Server, Star Wars
-- 📫 How to reach me: 
+- 📫 How to reach me: [Twitter]
 
 
 [Azure SQL]: https://azure.microsoft.com/en-us/products/azure-sql/ "Azure SQL"
+[Twitter]: https://twitter.com/Victor_Canseco "Twitter"
