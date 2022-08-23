@@ -8,12 +8,12 @@
 - 🌱 I’m currently learning [Azure SQL]
 - 💬 Ask me about C#, Blazor, SQL Server, Star Wars
 - 📫 How to reach me: [Twitter]
-
+<h3 align="center">A passiDevOps Engineer with more than 15 years of experience in the entire software development process and a keen interest in software design and architecture. Able to work in a team or independently, with great analytical and problem-solving skills</h3>
 
 [Azure SQL]: https://azure.microsoft.com/en-us/products/azure-sql/ "Azure SQL"
 [Twitter]: https://twitter.com/Victor_Canseco "Twitter"
 
-<h3 align="center">A passiDevOps Engineer with more than 15 years of experience in the entire software development process and a keen interest in software design and architecture. Able to work in a team or independently, with great analytical and problem-solving skills.onate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicoscanseco&label=Profile%20views&color=0e75b6&style=flat" alt="vicoscanseco" /> </p>
 
