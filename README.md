@@ -22,6 +22,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Como publicar un proyecto de Base de datos de Visual Studio a Azure SQL con Azure Pipelines](https://dev.to/victor_canseco/como-publicar-un-proyecto-de-base-de-datos-de-visual-studio-a-azure-sql-con-azure-pipelines-29ei)
+- [Desplegando una Web App de .Net Core con Docker y Azure Pipelines &lpar;I&rpar;](https://dev.to/victor_canseco/desplegando-una-web-app-de-net-core-con-docker-y-azure-pipelines-i-5d40)
+- [¿Qué es Bicep?](https://dev.to/victor_canseco/que-es-bicep-2005)
+- [SOLID  -  Los principios del diseño orientado a objetos - 1 er principio](https://dev.to/victor_canseco/solid-los-principios-del-diseno-orientado-a-objetos-1-er-principio-232h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
