@@ -11,9 +11,6 @@
 - 💬 Ask me about C#, Blazor, SQL Server, Star Wars
 - 📫 How to reach me: [Twitter]
 
-
-<a href="https://app.daily.dev/vicoscanseco"><img src="https://api.daily.dev/devcards/f6ebbcd7ec874e94842c27220d9123a4.png?r=gfz" width="400" alt="Victor Canseco's Dev Card" align="right"/></a>
-
 [Azure SQL]: https://azure.microsoft.com/en-us/products/azure-sql/ "Azure SQL"
 [Twitter]: https://twitter.com/Victor_Canseco "Twitter"
 
@@ -22,6 +19,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicoscanseco&label=Profile%20views&color=0e75b6&style=flat" alt="vicoscanseco" /> </p>
 
 <p align="left"> <a href="https://twitter.com/victor_canseco" target="blank"><img src="https://img.shields.io/twitter/follow/victor_canseco?logo=twitter&style=for-the-badge" alt="victor_canseco" /></a> </p>
+<br/>
+<a href="https://app.daily.dev/vicoscanseco"><img src="https://api.daily.dev/devcards/f6ebbcd7ec874e94842c27220d9123a4.png?r=gfz" width="400" alt="Victor Canseco's Dev Card" align="right"/></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
