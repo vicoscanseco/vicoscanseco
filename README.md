@@ -4,7 +4,7 @@
 <a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=vicoscanseco&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="Victor Canseco" align="right" />
 </a>
-<a href="https://app.daily.dev/vicoscanseco"><img src="https://api.daily.dev/devcards/f6ebbcd7ec874e94842c27220d9123a4.png?r=gfz" width="400" alt="Victor Canseco's Dev Card"/></a>
+<a href="https://app.daily.dev/vicoscanseco"><img src="https://api.daily.dev/devcards/f6ebbcd7ec874e94842c27220d9123a4.png?r=gfz" width="400" alt="Victor Canseco's Dev Card" align="right"/></a>
 
 - 🔭 I’m currently working on BCP
 - 🌱 I’m currently learning [Azure SQL]
