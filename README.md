@@ -2,10 +2,11 @@
 <h3>DevOps Engineer with more than 15 years of experience in the entire software development process and a keen interest in software design and architecture. Able to work in a team or independently, with great analytical and problem-solving skills.</h3>
 
 <a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicoscanseco&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Victor Canseco" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vicoscanseco&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="Victor Canseco" align="right" />
 </a>
+<a href="https://app.daily.dev/vicoscanseco"><img src="https://api.daily.dev/devcards/f6ebbcd7ec874e94842c27220d9123a4.png?r=gfz" width="400" alt="Victor Canseco's Dev Card"/></a>
 
-- 🔭 I’m currently working on Sysne
+- 🔭 I’m currently working on BCP
 - 🌱 I’m currently learning [Azure SQL]
 - 💬 Ask me about C#, Blazor, SQL Server, Star Wars
 - 📫 How to reach me: [Twitter]
