@@ -1,9 +1,7 @@
 ## Hola, soy Victor Canseco
 <h3>DevOps Engineer with more than 15 years of experience in the entire software development process and a keen interest in software design and architecture. Able to work in a team or independently, with great analytical and problem-solving skills.</h3>
 
-<a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicoscanseco&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="Victor Canseco" align="right" />
-</a>
+
 
 
 - 🔭 I’m currently working on BCP
