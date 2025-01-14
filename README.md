@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning [Python]
+- 🌱 I’m currently learning **Python**
 - 📖I'm currently studying for a master's in artificial intelligence and knowledge engineering.
 - 💬 Ask me about C#, Blazor, SQL Server, Star Wars
 - 📫 How to reach me: [Twitter]
