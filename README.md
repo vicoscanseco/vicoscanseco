@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/victor_canseco" target="blank"><img src="https://img.shields.io/twitter/follow/victor_canseco?logo=twitter&style=for-the-badge" alt="victor_canseco" /></a> </p>
 <br/>
-<a href="https://app.daily.dev/vicoscanseco760"><img src="https://api.daily.dev/devcards/v2/qgpJxAzV91dnaUOxEancp.png?type=default&r=qeo" width="356" alt="Victor Canseco's Dev Card"/></a>
+<a href="https://app.daily.dev/vicoscanseco760"><img src="https://api.daily.dev/devcards/v2/qgpJxAzV91dnaUOxEancp.png?type=wide&r=qeo" width="652" alt="Victor Canseco's Dev Card"/></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
