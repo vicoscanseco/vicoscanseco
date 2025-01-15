@@ -1,4 +1,4 @@
-## Hola, soy Victor Canseco
+## Hi, i'm Victor Canseco
 <h3>DevOps Engineer with more than 15 years of experience in the entire software development process and a keen interest in software design and architecture. Able to work in a team or independently, with great analytical and problem-solving skills.</h3>
 
 
