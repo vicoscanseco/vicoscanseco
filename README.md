@@ -50,13 +50,13 @@ infra:      Azure · Docker · GitHub Actions · Azure DevOps
 
 ## 📊 Estadísticas
 
+<!-- Snake generada por GitHub Actions desde tu propio repo — 100% autohospedado -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/vicoscanseco/vicoscanseco/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
+</div>
 
-<!-- GitHub Stats — servicio oficial de Repobeats -->
-<img src="https://repobeats.axiom.co/api/embed/vicoscanseco.svg" alt="Repobeats analytics" />
 
-<!-- Trofeos de GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=vicoscanseco&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<div align="center">
 
 <!-- Streak oficial via GitHub Actions (autohospedado, muy estable) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=vicoscanseco&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)
