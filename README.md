@@ -1,39 +1,97 @@
-# Hi, i'm Victor Canseco
-<p>DevSecOps · Consultor de Automatización con IA | Templates .NET + Vue para Developers LATAM | Azure · Claude AI · n8n · Azure · C# · SQL Server ·</p>
+<!-- Header animado -->
+<div align="center">
 
-<h3>Soy Ingeniero de Software con más de 18 años de experiencia construyendo 
-sistemas robustos y escalables. Hoy combino esa experiencia con IA y 
-automatizaciones para ayudar a developers y empresas LATAM a lanzar 
-productos más rápido y eliminar procesos manuales que consumen tiempo valioso.
-
-
-🤖 AUTOMATIZACIONES con IA: Conecto los sistemas de tu empresa con flujos 
-inteligentes usando n8n, Make y Claude AI. Desde atención al cliente automática 
-hasta reportes semanales que se generan solos.</h3>
-
-<h3>
-Mi stack: .NET  · Node.js · Vue 3 · SQL Server · PostgreSQL · Azure · 
-Docker · GitHub Actions · Azure DevOps · Claude AI · n8n</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicoscanseco&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vicoscanseco" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+V%C3%ADctor+Canseco+%F0%9F%91%8B;DevSecOps+%7C+IA+%7C+Azure;Automatizando+el+futuro+en+LATAM" alt="Typing SVG" />
 
 <br/>
-<a href="https://app.daily.dev/vicoscanseco760"><img src="https://api.daily.dev/devcards/v2/qgpJxAzV91dnaUOxEancp.png?type=wide&r=qeo" width="652" alt="Victor Canseco's Dev Card"/></a>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/victor_canseco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="victor_canseco" height="30" width="40" /></a>
-<a href="https://twitter.com/victor_canseco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victor_canseco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victor-canseco-soto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-canseco-soto" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100076510411370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100076510411370" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vicoscanseco&label=Visitas+al+perfil&color=4F8EF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Experiencia-18%2B%20a%C3%B1os-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enfoque-LATAM-success?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bash,css,cs,dotnet,docker,github,html,java,javascript,linux,postgres,powershell,python,regex,vue,vscode&theme=dark&perline=50"/>
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Ingeniero de Software con **+18 años de experiencia** construyendo sistemas robustos y escalables.  
+Hoy combino esa experiencia con **IA y automatizaciones** para ayudar a developers y empresas LATAM a:
+
+- 🚀 Lanzar productos más rápido
+- 🤖 Eliminar procesos manuales con flujos inteligentes
+- ☁️ Escalar infraestructura en Azure con prácticas DevSecOps
+
+---
+
+## 🤖 ¿En qué trabajo hoy?
+
+```yaml
+rol:        DevSecOps + Consultor de Automatización con IA
+enfoque:    Developers y empresas LATAM
+stack_ia:   Claude AI · n8n · Make · Azure AI
+stack_dev:  .NET · Vue 3 · Node.js · SQL Server · PostgreSQL
+infra:      Azure · Docker · GitHub Actions · Azure DevOps
+```
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,bash,css,cs,dotnet,docker,github,html,javascript,linux,postgres,powershell,python,vue,vscode&theme=dark&perline=15"/>
+  </a>
+</p>
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vicoscanseco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicoscanseco&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vicoscanseco&theme=tokyonight&hide_border=true&locale=es)
+
+</div>
+
+---
+
+## 📈 Contribuciones 3D
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-gitblock.svg)
+
+---
+
+## 🃏 Dev Card
+
+<div align="center">
+  <a href="https://app.daily.dev/vicoscanseco760">
+    <img src="https://api.daily.dev/devcards/v2/qgpJxAzV91dnaUOxEancp.png?type=wide&r=qeo" width="600" alt="Victor Canseco's Dev Card"/>
+  </a>
+</div>
+
+---
+
+## 🔗 Conecta conmigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/victor-canseco-soto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Canseco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/victor_canseco" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%2FX-@victor__canseco-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/victor_canseco" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-victor__canseco-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
 </p>
 
