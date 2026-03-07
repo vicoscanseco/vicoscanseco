@@ -47,5 +47,6 @@ Docker · GitHub Actions · Azure DevOps · Claude AI · n8n</h3>
   </a>
 </p>
 
-![3D Contribution Calendar](profile-3d-contrib/profile-gitblock.svg)
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-gitblock.svg)
 
