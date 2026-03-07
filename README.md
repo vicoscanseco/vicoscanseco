@@ -8,7 +8,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=vicoscanseco&label=Visitas+al+perfil&color=4F8EF7&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Experiencia-18%2B%20a%C3%B1os-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enfoque-LATAM-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-IA-success?style=for-the-badge" />
 </p>
 
 </div>
@@ -52,14 +52,14 @@ infra:      Azure · Docker · GitHub Actions · Azure DevOps
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vicoscanseco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicoscanseco&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Stats — servicio oficial de Repobeats -->
+<img src="https://repobeats.axiom.co/api/embed/vicoscanseco.svg" alt="Repobeats analytics" />
 
-</div>
+<!-- Trofeos de GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=vicoscanseco&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vicoscanseco&theme=tokyonight&hide_border=true&locale=es)
+<!-- Streak oficial via GitHub Actions (autohospedado, muy estable) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=vicoscanseco&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -94,7 +94,3 @@ infra:      Azure · Docker · GitHub Actions · Azure DevOps
     <img src="https://img.shields.io/badge/dev.to-victor__canseco-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
 </p>
-
-
-![3D Contribution Calendar](./profile-3d-contrib/profile-gitblock.svg)
-
