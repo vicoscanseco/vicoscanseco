@@ -15,11 +15,6 @@ hasta reportes semanales que se generan solos.</h3>
 Mi stack: .NET  · Node.js · Vue 3 · SQL Server · PostgreSQL · Azure · 
 Docker · GitHub Actions · Azure DevOps · Claude AI · n8n</h3>
 
-- 📫 How to reach me: [Twitter]
-
-[Twitter]: https://twitter.com/vcdevai "Twitter"
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicoscanseco&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vicoscanseco" /> </p>
 
